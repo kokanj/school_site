@@ -1,0 +1,42 @@
+@use 'custom';
+
+// IMPORT THE COMPONENTS 
+//@use 'components/animations';
+//@use 'components/buttons';
+//@use 'components/mixins';
+//@use 'components/typography';
+
+
+// IMPORT THE SECTIONS 
+@use 'sections/footer';
+@use 'sections/galerija';
+@use 'sections/kontakt';
+@use 'sections/menadzment';
+@use 'sections/navbar';
+@use 'sections/projekti';
+@use 'sections/sajtovi';
+@use 'sections/vesti';
+
+.navbar{
+    padding: 0;
+    
+}
+section{
+    min-height: 100vh;
+
+}
+
+
+
+
+html {
+    scroll-behavior: smooth;
+    
+  }
+.shadow {
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+.container-header{
+    padding: 0 !important; 
+    
+}

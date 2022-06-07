@@ -1,0 +1,23 @@
+
+$blue-dark:#2A7AC0;
+$blure-light: #75A6D1;
+$zlatna:#f4f4f4;
+
+$white:    #fff ;
+$gray-100: #f8f9fa ;
+$gray-200: #e9ecef ;
+$gray-300: #dee2e6 ;
+$gray-400: #ced4da ;
+$gray-500: #adb5bd ;
+$gray-600: #6c757d ;
+$gray-700: #495057 ;
+$gray-800: #343a40 ;
+$gray-900: #212529 ;
+$black:    #000 ;
+
+$primary:$blue-dark;
+$secondary:$zlatna;
+
+
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";

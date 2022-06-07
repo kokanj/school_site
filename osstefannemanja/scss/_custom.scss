@@ -1,0 +1,18 @@
+
+// MY THEME COLORS 
+$plava-svetla:  #0f88da;
+$purple-light:  #BB6EF5;
+$plava:    #4a74b3;
+$footer: #151414;
+
+// #######################################
+//		NO NEED TO CUSTOM THE GRAY COLOR IF YOU DO NOT
+// #######################################
+
+
+$primary:       $plava-svetla;
+$secondary:     $plava;
+
+
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";

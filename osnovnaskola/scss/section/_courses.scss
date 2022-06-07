@@ -1,0 +1,46 @@
+
+.courses{
+    padding: 15px;
+    background-color: rgb(251, 246, 237);
+
+
+    .course-item{
+        border-radius: 5px;
+        border: 1px solid #eef0ef ;
+        margin: 5px;
+        background-color: white;
+
+        img{
+            padding: 10px ;
+            
+        }
+        
+    }
+
+    .course-content{
+        padding: 15px;
+        
+        
+        h3{
+            font-weight: 700;
+            font-size: 20px;
+            text-decoration: none;
+
+            a{
+                color:#37423b ;
+                transition: 0.3s;
+                text-decoration: none;
+
+            }
+            a:hover {
+                color: #5fcf80;
+            }
+
+            p{
+                font-size: 14px;
+                color: #777777;
+            }
+        }
+    }
+
+}

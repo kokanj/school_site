@@ -1,0 +1,23 @@
+
+
+.najvaznije-vesti{
+    background: #fff;
+    padding: 30px 20px 20px 20px;
+    border-radius: 10px;
+          
+        img{
+            border-radius: 2px;
+            transition: all 0.5s ease;
+            background: rgb(250, 249, 249);
+            padding: 20px;
+
+            &:hover{
+                background: rgb(244, 247, 244);
+                padding: 10px;
+                    
+            }
+                
+        }
+    
+}
+  
